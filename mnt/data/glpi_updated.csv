@@ -1,0 +1,8 @@
+ID,Título,Status,Última atualização,Data de abertura,Prioridade,Requerente - Requerente,Atribuído - Técnico,Categoria,Tempo para solução,Unnamed: 10,Dentro do SLA,Mês
+42,ISO 9001 - vendas,Pendente,2024-07-17 15:13:00,2024-07-15 18:15:00,Alta,Paula Hartmann,William Sousa,Solicitações de Mudança > Atualizações de Software,19-07-2024 18:15,,True,2024-07
+43,ISO 9001 - gerência e RH,Em atendimento (atribuído),2024-07-15 18:26:00,2024-07-15 18:17:00,Média,Paula Hartmann,William Sousa,Solicitações de Mudança > Atualizações de Software,21-07-2024 18:17,,True,2024-07
+41,Criação de intranet,Em atendimento (atribuído),2024-07-15 18:26:00,2024-07-15 17:51:00,Baixa,Paula Hartmann,William Sousa,Software,13-08-2024 17:51,,True,2024-07
+40,Bloquear acesso saite Casas Bahia e Wimoveis Instalar sistema seguranç,Fechado,2024-07-15 11:52:00,2024-07-09 18:14:00,Alta,Melba Bocayuva,William Sousa,Acesso e Permissões > Permissões de Acesso,13-07-2024 18:14,,False,2024-07
+38,Lentidão na Wifi,Fechado,2024-07-09 13:23:00,2024-07-08 14:01:00,Baixa,Gabriel Cruz,William Sousa,Hardware > Rede,21-07-2024 14:01,,True,2024-07
+37,Compilar relatório FIB,Fechado,2024-07-08 21:00:00,2024-07-02 23:15:00,Média,Paula Hartmann,William Sousa,Relatórios,08-07-2024 23:15,,False,2024-07
+39,Verificar e-mail contato do Iprev,Fechado,2024-07-08 21:00:00,2024-07-08 15:59:00,Média,Marcela Bocayuva,William Sousa,Software > E-mail,14-07-2024 15:59,,True,2024-07
